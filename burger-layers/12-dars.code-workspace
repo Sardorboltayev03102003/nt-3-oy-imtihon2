@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../8-dars"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "12-dars"
+  }
+}
